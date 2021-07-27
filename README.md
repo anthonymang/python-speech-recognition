@@ -13,4 +13,4 @@ Follow the prompts to either upload or record audio.
 
 - Upload: Enter in the name of the file you would like transcribed. Easiest if file is in the same repository as main.py
 
--Record: Choose microphone and begin speaking when prompted.
+- Record: Choose microphone and begin speaking when prompted.
