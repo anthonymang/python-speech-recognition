@@ -8,8 +8,7 @@ To install:
 - Install dependencies:
     - ```
     pip3 install -r requirements.txt
-    ``` for python3
-
+    ```
 ## Use
 Run main.py in the command line.
 Follow the prompts to either upload or record audio.
