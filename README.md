@@ -6,8 +6,7 @@ To install:
 - Fork this repository
 - Clone to local machine.
 - Install dependencies:
-    - ```
-    pip3 install -r requirements.txt
+    - ```pip3 install -r requirements.txt
     ```
 ## Use
 Run main.py in the command line.
